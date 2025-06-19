@@ -1,2 +1,2 @@
 # 6398735
-# This repository about the Cognizant Projects
+# This repository is about the Cognizant Projects
