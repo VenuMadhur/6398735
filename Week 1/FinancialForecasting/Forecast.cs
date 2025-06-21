@@ -6,8 +6,8 @@ namespace FinancialForecasting
     {
         static void Main(string[] args)
         {
-            double initialAmount = 1000; // Starting money
-            double annualGrowthRate = 0.05; // 5% growth
+            double initialAmount = 1000;
+            double annualGrowthRate = 0.05;
             int years = 5;
 
             double futureValue = CalculateFutureValue(initialAmount, annualGrowthRate, years);
