@@ -66,7 +66,6 @@ class Program
             new Product(5, "Smartphone", "Electronics")
         };
 
-        // Sort for binary search
         products.Sort((p1, p2) => p1.ProductName.CompareTo(p2.ProductName));
 
         Console.WriteLine("Enter product name to search:");
