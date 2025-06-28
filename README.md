@@ -1,2 +1,2 @@
-# 6398735Add commentMore actions
+# 6398735
 # This repository is about the Cognizant Projects
