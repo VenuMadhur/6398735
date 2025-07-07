@@ -93,7 +93,8 @@ await context.SaveChangesAsync();
 
 🟢 Output:
 
-![alt text](RetailInventory\Output4.png)
+![image](https://github.com/user-attachments/assets/88406bfd-deba-44dc-9a06-2a58f7c9897a)
+
 
 
 ## 📂 Lab5Inventory – Lab 5: Querying the Database
