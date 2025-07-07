@@ -116,7 +116,8 @@ var expensive = await context.Products.FirstOrDefaultAsync(p => p.Price > 50000)
 
 ### 📦 Output
 
-![alt text](Lab5\Output5.png)
+![image](https://github.com/user-attachments/assets/521bb0fe-f5e1-4a94-9234-31fb4675f0e3)
+
 
 ## 🚀 Getting Started
 
