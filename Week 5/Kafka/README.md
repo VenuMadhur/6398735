@@ -27,21 +27,23 @@ Built as part of **Digital Nurture 4.0 – Deep Skilling (.NET FSE)**.
    cd C:\kafka_2.13-3.6.1\bin\windows
    zookeeper-server-start.bat ..\..\config\zookeeper.properties
    ```
-   ![alt text](Outputs\ZookeeperStarted.png)
+   <img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/99dcc639-c620-4832-b677-2391cedcb301" />
+
 
 2. **Start Kafka Broker**
 
    ```bash
    kafka-server-start.bat ..\..\config\server.properties
    ```
-   ![alt text](Outputs\KafkaBrokerStarted.png)
+   <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/b1728fed-9b0a-4d71-aab0-aeeefd4164f9" />
+
 
 3. **Create Kafka Topic**
 
    ```bash
    kafka-topics.bat --create --topic chat-topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
    ```
-   ![alt text](Outputs\KafkaTopicCreated.png)
+   <img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/b02d8b93-aea8-4510-9c0e-0efe9984a669" />
 
 ---
 
@@ -54,18 +56,21 @@ This app exposes a REST API to send messages to Kafka.
 ```
 POST /api/Kafka/send
 ```
-![alt text](Outputs\SwaggerUIPost.png)
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/aa18f117-96eb-4255-b760-f3c807969089" />
+
 
 ### 📥 Sample Request (JSON)
 
-![alt text](Outputs\Swagger(ProducerUI).png)
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/814c71f1-07c4-4964-8a79-abdb88ce1b4a" />
+
 
 ### ✅ Output
 
 * Message is published to `chat-topic`
 * Response:
 
-  ![alt text](Outputs\Swagger(ConsumerUI).png)
+  <img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/e9660be0-21ea-4e91-b4e3-e7463a06fcf8" />
+
 
 ### 🔁 Config (`appsettings.json`)
 
@@ -87,7 +92,8 @@ This app exposes a GET endpoint that consumes messages from Kafka.
 ```
 GET /api/Consumer/consume
 ```
-![alt text](Outputs\SwaggerUIGet.png)
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/89eaed9a-8ec1-4335-b1c3-abc7b4cb2968" />
+
 
 ### ✅ Output
 
@@ -97,7 +103,8 @@ GET /api/Consumer/consume
   ```
   ✅ Received message: kafka ka baap
   ```
-  ![alt text](Outputs\ConsumerReceivesMessage.png)
+  <img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/d5c27da5-2311-4854-b930-df250909c329" />
+
   
 * If no message found in 5 seconds:
 
