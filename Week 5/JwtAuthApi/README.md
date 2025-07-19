@@ -82,7 +82,8 @@ Use the "Authorize" button to paste your `Bearer {token}` from the login respons
 
 #### ❌ Admin Access Denied (Token Expired)
 
-![alt text](Outputs\swagger-admin-401.png)
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/266ce1d7-33f2-45fe-a4c0-df207508b961" />
+
 
 ---
 
@@ -96,16 +97,6 @@ Use the "Authorize" button to paste your `Bearer {token}` from the login respons
 
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/b225b4ba-62c5-468b-81ee-c3ab14f226ae" />
 
-
----
-
-## 🧪 API Endpoints
-
-| Endpoint               | Method | Auth Required  | Role  |
-| ---------------------- | ------ | -------------- | ----- |
-| `/api/Auth/login`      | POST   | ❌             | —     |
-| `/api/Secure/data`     | GET    | ✅             | Any   |
-| `/api/Admin/dashboard` | GET    | ✅             | Admin |
 
 ---
 
