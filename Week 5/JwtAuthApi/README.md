@@ -48,18 +48,21 @@ JwtAuthApi/
 
 ## 🔐 Authentication Flow
 
-![alt text](Outputs\swagger-ui.png)
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/14250acc-256a-4a09-ae99-3516ffe6f529" />
+
 
 ### 1. 🔑 Login
 
 **Endpoint:** `POST /api/Auth/login`
 **Body:**
 
-![alt text](Outputs\swagger-auth.png)
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/01bf20b3-a43c-495a-84e9-2dbbf917136a" />
+
 
 ✅ On success, returns a JWT token.
 
-![alt text](Outputs\swagger-auth-1.png)
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/f836833d-7310-44b0-9974-b0ee2d0db686" />
+
 
 ---
 
@@ -67,7 +70,8 @@ JwtAuthApi/
 
 Use the "Authorize" button to paste your `Bearer {token}` from the login response.
 
-![alt text](Outputs\swagger-authorize.png)
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/8402e76b-45b4-49d7-8ae8-776b43169588" />
+
 
 ---
 
@@ -78,7 +82,8 @@ Use the "Authorize" button to paste your `Bearer {token}` from the login respons
 **Endpoint:** `GET /api/Admin/dashboard`
 **Requires:** Role = `Admin`
 
-![alt text](Outputs\swagger-admin.png)
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/9bd499a4-6e44-4604-b0cf-59e7a0f8d2a9" />
+
 
 #### ❌ Admin Access Denied (Token Expired)
 
