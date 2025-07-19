@@ -96,7 +96,8 @@ Use the "Authorize" button to paste your `Bearer {token}` from the login respons
 
 **Endpoint:** `GET /api/Secure/data`
 
-![alt text](Outputs\swagger-secure.png)
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/ac34e4a6-b473-4f26-b044-c7500afbb854" />
+
 
 #### ❌ Secure Data - Token Expired
 
