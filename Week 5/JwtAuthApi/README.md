@@ -94,7 +94,8 @@ Use the "Authorize" button to paste your `Bearer {token}` from the login respons
 
 #### ❌ Secure Data - Token Expired
 
-![alt text](Outputs\swagger-secure-401.png)
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/b225b4ba-62c5-468b-81ee-c3ab14f226ae" />
+
 
 ---
 
