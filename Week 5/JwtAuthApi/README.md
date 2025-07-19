@@ -49,7 +49,7 @@ JwtAuthApi/
 ## 🔐 Authentication Flow
 
 <img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/14250acc-256a-4a09-ae99-3516ffe6f529" />
-
+---
 
 ### 1. 🔑 Login
 
