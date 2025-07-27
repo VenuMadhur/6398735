@@ -16,17 +16,20 @@ This ReactJS project demonstrates how to build a **reusable component** for disp
 npx create-react-app reactjs5
 cd reactjs5
 ````
-![Project Created](Outputs\ProjectCreated.png)
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/bdff449b-9390-420a-afbe-f13e1c63695f" />
+
 
 ```bash
 code .
 ```
-![VS Code Folder Structure](Outputs\VsCodeFolder.png)
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/7679740f-1bfd-4f5b-9caf-928e19ae74de" />
+
 
 ```bash
 npm start
 ```
-![Webpack Compiled](Outputs\WebpackCompiled.png)
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/9465e724-27e1-4540-a085-a4d6b65ff463" />
+
 ---
 
 ## 🚀 Components Used
@@ -37,7 +40,8 @@ npm start
 * Styles the title in **green** if `status="Ongoing"` or **blue** if `"Completed"`
 * Renders boxed layout using a CSS module
 
-![CohortDetails.js](Outputs\CohortDetails.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/4b2cf1a6-ec2f-4bfa-9fff-14224b868b6b" />
+
 
 ### ✅ `CohortDetails.module.css`
 
@@ -53,7 +57,8 @@ npm start
   font-family: Arial, sans-serif;
 }
 ```
-![CSS Module](Outputs\CohortDetails.module.png)
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/4fc44fa2-6b95-44bb-a7e6-faf75292d6bb" />
+
 
 ### ✅ `App.js`
 
@@ -87,13 +92,15 @@ function App() {
 
 export default App;
 ```
-![App.js](Outputs\App.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/0ad48eea-3200-4149-99f5-95c2b033318f" />
+
 
 ---
 
 ## ✅ Final Output Screenshot
 
 
-![Browser Output](Outputs\Browser.png)
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/9a92c9a5-be9a-4683-8f42-f9f1198c1ce9" />
+
 
 ---
