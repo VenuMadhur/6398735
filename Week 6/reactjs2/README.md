@@ -34,8 +34,9 @@ cd reactjs2
 code .
 ```
 
-https://github.com/VenuMadhur/6398735/blob/main/Week%206/reactjs2/Outputs/ProjectCreated.png
-https://github.com/VenuMadhur/6398735/blob/main/Week%206/reactjs2/Outputs/ProjectCreated1.png
+<img width="1485" height="761" alt="image" src="https://github.com/user-attachments/assets/08bdb7b8-99c3-465a-a98f-e5909931d762" />
+
+<img width="1485" height="763" alt="image" src="https://github.com/user-attachments/assets/180bce5b-8bc6-4bed-b2f6-0357d5568b38" />
 
 
 ---
@@ -67,7 +68,8 @@ class Home extends React.Component {
 
 export default Home;
 ```
-![Home Component](Outputs\Home.png)
+<img width="1906" height="1021" alt="image" src="https://github.com/user-attachments/assets/eb7b2028-6135-4c49-b046-e1e84198b24e" />
+
 
 #### `About.js`
 
@@ -86,7 +88,8 @@ class About extends React.Component {
 
 export default About;
 ```
-![About Component](Outputs\About.png)
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/d5bbccc5-b729-498b-a314-cc63f73271e2" />
+
 
 #### `Contact.js`
 
@@ -105,7 +108,9 @@ class Contact extends React.Component {
 
 export default Contact;
 ```
-![About Component](Outputs\Contact.png)
+<img width="1915" height="1021" alt="image" src="https://github.com/user-attachments/assets/484137f8-42ba-4755-8213-d289fa2c07d0" />
+
+
 
 ---
 
@@ -131,7 +136,8 @@ function App() {
 export default App;
 ```
 
-![App Component](Outputs\App.png)
+<img width="1911" height="1019" alt="image" src="https://github.com/user-attachments/assets/d6b2510a-eb1f-4b29-b1b0-021896637a5c" />
+
 
 ---
 
@@ -149,7 +155,8 @@ http://localhost:3000
 
 ## ✅ Output
 
-![Browser Output](Outputs\Browser.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/36c458ce-0950-4742-85ca-15d8b2544fe5" />
+
 
 ---
 
