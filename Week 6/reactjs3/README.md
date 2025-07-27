@@ -36,8 +36,10 @@ cd reactjs3
 code .
 ```
 
-![Project Created](Outputs\ProjectCreated.png)
-![Project Created 1](Outputs\ProjectCreated1.png)
+<img width="1484" height="761" alt="image" src="https://github.com/user-attachments/assets/d68032e7-1466-4a6a-946e-3eb0c028b618" />
+
+<img width="1484" height="761" alt="image" src="https://github.com/user-attachments/assets/b85e19c8-f7d8-4443-ab77-7b616d9ff6ce" />
+
 
 ---
 
@@ -48,7 +50,8 @@ Inside `src/`, create:
 * `Components/CalculateScore.js`
 * `Stylesheets/mystyle.css`
 
-![VS Code Folder](Outputs\VsCodeFolder.png)
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fe8842ff-8cb3-424e-aba4-6e8c9c320da1" />
+
 
 ---
 
@@ -76,7 +79,8 @@ function CalculateScore(props) {
 export default CalculateScore;
 ```
 
-![CalculateScore.js](Outputs\CalculateScore.png)
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/7e47317f-8cd0-4142-b09b-a906882c2b95" />
+
 
 ---
 
@@ -103,7 +107,8 @@ export default CalculateScore;
 }
 ```
 
-![mystyle.css](Outputs\mystyle.png)
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/c51c5a00-1ac6-409b-b71b-cd3225860f63" />
+
 ---
 
 ### 🔹 5. `App.js` Code
@@ -129,7 +134,8 @@ function App() {
 export default App;
 ```
 
-![App.js](Outputs\App.png)
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/c30656b9-ff9b-40c1-8800-1c4fc4fa2e06" />
+
 
 ---
 
@@ -148,6 +154,7 @@ http://localhost:3000
 ```
 
 ✅ Shows:
-![Browser Output](Outputs\Browser.png)
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/b5e1f07b-15d5-4a17-8d50-3dfb715d38d1" />
+
 
 ---
