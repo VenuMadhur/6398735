@@ -37,8 +37,10 @@ reactjs4/
 npx create-react-app reactjs4
 cd reactjs4
 ```
-![Project Created](Outputs\ProjectCreated.png)
-![Project Created CLI](Outputs\ProjectCreated1.png)
+<img width="1915" height="816" alt="image" src="https://github.com/user-attachments/assets/6894acf3-77b5-4f85-80c7-a0cc484c25dd" />
+
+<img width="1919" height="542" alt="image" src="https://github.com/user-attachments/assets/2c9615d1-39e7-4069-b200-8d7d208b9b83" />
+
 
 2. **Create `Posts.js` in `src/` folder:**
 
@@ -98,7 +100,8 @@ class Posts extends Component {
 
 export default Posts;
 ```
-![Posts View](Outputs\Posts.png)
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/29d66ba0-1411-46bb-b133-773d333c1b85" />
+
 
 3. **Edit `App.js`:**
 
@@ -116,14 +119,16 @@ function App() {
 
 export default App;
 ```
-![App View](Outputs\App.png)
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/a29c1540-7466-4f2f-99eb-ac7e8951831e" />
+
 
 4. **Run the App:**
 
 ```bash
 npm start
 ```
-![Webpack Compiled](Outputs\WebpackComplied.png)
+<img width="1903" height="983" alt="image" src="https://github.com/user-attachments/assets/8535960e-dc99-423a-82da-9e6e266f3c46" />
+
 
 ---
 
@@ -131,5 +136,6 @@ npm start
 
 ### ✅ Blog Posts Rendered from API
 
-![Browser Output](Outputs\Browser.png)
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/27d0851f-5043-4f3e-9260-7fcda29e61cc" />
+
 ---
