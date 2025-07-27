@@ -29,7 +29,8 @@ node -v
 npm -v
 ```
 
-![alt text](Outputs\NodeNpmVersion.png)
+<img width="1483" height="760" alt="image" src="https://github.com/user-attachments/assets/c2cefaae-7a8a-47c4-9d6c-4184adf2aeae" />
+
 
 ---
 
@@ -40,7 +41,8 @@ npm -v
 ```bash
 npx create-react-app reactjs-1
 ```
-![alt text](Outputs\WebpackComplied.png)
+<img width="1483" height="761" alt="image" src="https://github.com/user-attachments/assets/1428f65c-b304-41be-bc27-8a85a83a060e" />
+
 ---
 
 ### 🔹 Navigated into the folder and opened in VS Code
@@ -50,7 +52,8 @@ cd reactjs-1
 code .
 ```
 
-![alt text](Outputs\VsCodeFolder.png)
+<img width="1907" height="1019" alt="image" src="https://github.com/user-attachments/assets/b0b89cdd-361e-49a9-b77a-53632c257851" />
+
 
 ---
 
@@ -71,7 +74,8 @@ function App() {
 
 export default App;
 ```
-![alt text](Outputs\AppJsEdited.png)
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/9e2bd678-ecf5-4719-91e1-235a017d294a" />
+
 ---
 
 ## ▶️ Application Output
@@ -84,7 +88,8 @@ npm start
 
 > Opened in browser: `http://localhost:3000`
 
-![alt text](Outputs\Browser.png)
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/cfe9954c-8add-457d-840a-34fa295e2f61" />
+
 
 ---
 
