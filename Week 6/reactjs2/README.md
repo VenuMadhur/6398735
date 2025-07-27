@@ -34,8 +34,8 @@ cd reactjs2
 code .
 ```
 
-![Project Created](Outputs\ProjectCreated.png)
-![Project Success](Outputs\ProjectCreated1.png)
+https://github.com/VenuMadhur/6398735/blob/main/Week%206/reactjs2/Outputs/ProjectCreated.png
+https://github.com/VenuMadhur/6398735/blob/main/Week%206/reactjs2/Outputs/ProjectCreated1.png
 
 
 ---
