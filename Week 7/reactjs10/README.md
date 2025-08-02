@@ -21,14 +21,16 @@ This hands-on lab demonstrates ReactJS concepts, including:
 ```bash
 npx create-react-app reactjs10
 ```
-![alt text](Outputs/CreateApp.png)
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/997b42c2-233c-4756-8708-f8bb43f822a3" />
+
 
 
 ```bash
 cd reactjs10
 npm start
 ```
-![alt text](Outputs/NpmStart.png)
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/68c70b58-c82b-4721-aaeb-899a989ec893" />
+
 
 
 
@@ -59,7 +61,8 @@ reactjs10/
  └── README.md
 ```
 
-![alt text](Outputs/ProjectFolder.png)
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/8824e6d3-129a-4f31-9885-66beda24af87" />
+
 
 ---
 
@@ -85,7 +88,9 @@ npm start
   - Rent ≥ 60,000 → **Green**
 
 
-  ![alt text](Outputs/Output.png)
-  ![alt text](Outputs/Output1.png)
+  <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/4169bc2c-645a-4fdf-8c49-eb5ad8088b49" />
+
+  <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/dfe8dc0d-df31-4cb7-9f38-41d687dd82fc" />
+
 
 ---
