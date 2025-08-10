@@ -24,7 +24,8 @@ cd /c/Users/choll/GitDemo
 git status
 ```
 
-![alt text](MainClean.png)
+<img width="737" height="443" alt="image" src="https://github.com/user-attachments/assets/effb144b-cf37-4293-9af0-9ba7de4b29f1" />
+
 
 ---
 
@@ -34,7 +35,8 @@ git status
 git branch -a
 ```
 
-![alt text](BranchList.png)
+<img width="744" height="446" alt="image" src="https://github.com/user-attachments/assets/518bacbb-0931-4cee-993e-af4f298f07cd" />
+
 
 ---
 
@@ -44,7 +46,8 @@ git branch -a
 git pull origin master   # or: git pull origin main
 ```
 
-![alt text](PullRemote.png)
+<img width="743" height="451" alt="image" src="https://github.com/user-attachments/assets/fb52384e-a58a-4e46-b735-7e07cea3f28d" />
+
 
 ---
 
@@ -54,7 +57,8 @@ git pull origin master   # or: git pull origin main
 git push origin master   # or: git push origin main
 ```
 
-![alt text](PushRemote.png)
+<img width="742" height="447" alt="image" src="https://github.com/user-attachments/assets/9f1b71d5-367d-4d9d-867a-80ce7f80f7a4" />
+
 
 ---
 
@@ -63,6 +67,8 @@ git push origin master   # or: git push origin main
 * Open your GitLab/GitHub repository in a web browser.
 * Confirm that commits and files from recent labs are visible.
 
-![alt text](Final.png)
+<img width="1909" height="1022" alt="image" src="https://github.com/user-attachments/assets/3f3ba967-b727-4393-a895-fdb6ad4c5dd0" />
+
 
 ---
+
