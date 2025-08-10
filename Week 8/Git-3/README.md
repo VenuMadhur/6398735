@@ -1,6 +1,4 @@
 
-
-````markdown
 # Git Hands-on 3: Branching & Merging
 
 ## Objective
@@ -81,7 +79,7 @@ git status
 ### 6. Switch Back to Master/Main
 
 ```bash
-git checkout master   # or: git checkout main
+ git checkout main
 ```
 
 ![alt text](BackToMain.png)
@@ -140,3 +138,4 @@ git status
 ![alt text](Final.png)
 
 ---
+
