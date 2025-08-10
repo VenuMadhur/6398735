@@ -1,6 +1,5 @@
 
 
-````markdown
 # Git Hands-on Lab
 
 This repository was created as part of a Git Hands-on exercise.  
@@ -104,3 +103,4 @@ git push -u origin main
 * File and commit visible in GitLab web interface
 
 ---
+
