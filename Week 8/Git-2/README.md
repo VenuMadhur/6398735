@@ -1,5 +1,4 @@
 
-````markdown
 # Git Hands-on 2: Using `.gitignore` to Ignore Unwanted Files
 
 ## Objective
@@ -101,3 +100,4 @@ git status
 ![alt text](final.png)
 
 ---
+
