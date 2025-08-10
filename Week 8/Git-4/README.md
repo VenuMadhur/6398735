@@ -1,6 +1,4 @@
 
-
-````markdown
 # Git Hands-on 4: Merge Conflict Resolution
 
 ## Objective
@@ -20,7 +18,7 @@ Simulate a merge conflict between master/main and a branch, resolve it, and comm
 ### 1. Verify master/main is clean
 ```bash
 cd /c/Users/choll/GitDemo
-git checkout master    # or: git checkout main
+git checkout main
 git status
 ````
 
@@ -87,7 +85,7 @@ git log --oneline --graph --decorate --all
 ### 7. Show differences before merge
 
 ```bash
-git diff master GitWork   # or: git diff main GitWork
+git diff main GitWork
 ```
 
 ![alt text](DiffCli.png)
@@ -148,3 +146,4 @@ git status
 ![alt text](Final.png)
 
 ---
+
