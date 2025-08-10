@@ -1,6 +1,4 @@
 
-
-````markdown
 # Git Hands-on 5: Clean Up & Push to Remote
 
 ## Objective
@@ -54,7 +52,7 @@ git pull origin master   # or: git pull origin main
 ### 4. Push Any Pending Changes to Remote
 
 ```bash
-git push origin master   # or: git push origin main
+git push origin main
 ```
 
 <img width="742" height="447" alt="image" src="https://github.com/user-attachments/assets/9f1b71d5-367d-4d9d-867a-80ce7f80f7a4" />
@@ -71,4 +69,5 @@ git push origin master   # or: git push origin main
 
 
 ---
+
 
